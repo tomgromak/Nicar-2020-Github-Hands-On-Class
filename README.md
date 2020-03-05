@@ -1,2 +1,4 @@
 # Nicar 2020 Hands-On Class
- NICAR 2020 hands-on class
+
+This is the first change to my repo.
+
