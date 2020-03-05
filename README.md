@@ -4,3 +4,5 @@ This is the first change to my repo.
 
 This is my second change to my readme file as part of the GitHub for Journalists class at NICAR 2020.
 
+This is a new feature on the new branch. I hope.
+
